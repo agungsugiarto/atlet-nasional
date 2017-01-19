@@ -44,15 +44,15 @@ Below configuration are preferred; other environments are not well-tested, but s
 
 Frontend - Home:
 
-![](Screenshot/home.png)
+![](screenshot/home.png)
 
 Frontend - Home:
 
-![](Screenshot/home1.png)
+![](screenshot/home1.png)
 
 Admin Dashboard - Crud
 
-![](Screenshot/admin_dashboard.png)
+![](screenshot/admin_dashboard.png)
 
 ## License
 
